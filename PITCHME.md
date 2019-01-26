@@ -29,11 +29,18 @@ for shinhuku-mokumoku32 @ixap2i
 
 ---
 
-### Authenticationの大雑把なダイジェスト
+### Authenticationの大雑把なダイジェスト1
 
 @size[0.8em](FirebaseのAuthenticationから任意のユーザーを作る)
 
-@size[0.8em](Firebase Auth Instanceを取得、createUserWithEmailAndPasswordなるものを使ってユーザー照合をする。)
+![Code](description.png)
+
+
+---
+
+### Authenticationの大雑把なダイジェスト2
+
+@size[0.8em](アプリ側ではFirebase Auth Instanceを取得、createUserWithEmailAndPasswordなるものを使ってユーザー照合をする。)
 @size[0.2em](DBからデータ取ったり整形作業などもないのでとてもラク)
 
 
